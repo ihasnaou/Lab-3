@@ -30,6 +30,7 @@ public class AddressBook {
 
     public AddressBook(){
         this.collection = new ArrayList<BuddyInfo>();
+        //null
     }
 
     public static void main(String[] args) {
